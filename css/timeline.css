@@ -69,11 +69,7 @@
   top: 0;
   height: 100%;
   width: 100%;
-<<<<<<< HEAD
   background-color: #1B619B;
-=======
-  background-color: #7b9d6f;
->>>>>>> eec6120693070c4a77e074e8de8227bc8589a892
   -webkit-transform: scaleX(0);
   -moz-transform: scaleX(0);
   -ms-transform: scaleX(0);
@@ -93,15 +89,9 @@
   bottom: 0;
   z-index: 2;
   text-align: center;
-<<<<<<< HEAD
   font-size: 20px;
   padding-bottom: 15px;
   color: #1B619B; /*#7b9d6f; */
-=======
-  font-size: 16px;
-  padding-bottom: 15px;
-  color: #383838;
->>>>>>> eec6120693070c4a77e074e8de8227bc8589a892
   /* fix bug on Safari - text flickering while timeline translates */
   -webkit-transform: translateZ(0);
   -moz-transform: translateZ(0);
@@ -131,31 +121,18 @@
   transition: background-color 0.3s, border-color 0.3s;
 }
 .no-touch .cd-horizontal-timeline .events a:hover::after {
-<<<<<<< HEAD
   background-color: #1B619B;
   border-color: #1B619B; 
-=======
-  background-color: #7b9d6f;
-  border-color: #7b9d6f;
->>>>>>> eec6120693070c4a77e074e8de8227bc8589a892
 }
 .cd-horizontal-timeline .events a.selected {
   pointer-events: none;
 }
 .cd-horizontal-timeline .events a.selected::after {
-<<<<<<< HEAD
   background-color:  #1B619B;
   border-color:  #1B619B;
 }
 .cd-horizontal-timeline .events a.older-event::after {
   border-color:  #1B619B;
-=======
-  background-color: #7b9d6f;
-  border-color: #7b9d6f;
-}
-.cd-horizontal-timeline .events a.older-event::after {
-  border-color: #7b9d6f;
->>>>>>> eec6120693070c4a77e074e8de8227bc8589a892
 }
 @media only screen and (min-width: 1100px) {
   .cd-horizontal-timeline {
@@ -206,11 +183,7 @@
   -ms-transform: translateX(-50%) translateY(-50%);
   -o-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
-<<<<<<< HEAD
   background: url(../img/cd-arrow.svg) no-repeat 0 0; /*arrow is green, sorry */
-=======
-  background: url(../img/cd-arrow.svg) no-repeat 0 0;
->>>>>>> eec6120693070c4a77e074e8de8227bc8589a892
 }
 .cd-timeline-navigation a.prev {
   left: 0;
@@ -224,11 +197,7 @@
   right: 0;
 }
 .no-touch .cd-timeline-navigation a:hover {
-<<<<<<< HEAD
   border-color: #1B619B;
-=======
-  border-color: #7b9d6f;
->>>>>>> eec6120693070c4a77e074e8de8227bc8589a892
 }
 .cd-timeline-navigation a.inactive {
   cursor: not-allowed;
@@ -243,19 +212,12 @@
 .cd-horizontal-timeline .events-content {
   position: relative;
   width: 100%;
-<<<<<<< HEAD
   margin: 1em 0em;
-=======
-  margin: .1em 0;
->>>>>>> eec6120693070c4a77e074e8de8227bc8589a892
   overflow: hidden;
   -webkit-transition: height 0.4s;
   -moz-transition: height 0.4s;
   transition: height 0.4s;
-<<<<<<< HEAD
   text-align: left;
-=======
->>>>>>> eec6120693070c4a77e074e8de8227bc8589a892
 }
 .cd-horizontal-timeline .events-content li {
   position: absolute;
@@ -308,24 +270,15 @@
   margin: 0 auto;
 }
 .cd-horizontal-timeline .events-content h2 {
-<<<<<<< HEAD
   font-size: 2.6rem;
   font-weight: 700;
   font-family: Arial, Helvetica, sans-serif;
   color: rgb(100,100,100);
-=======
-  font-weight: bold;
-  font-size: 2.6rem;
-  font-weight: 700;
-  font-family: Arial, Helvetica, sans-serif;
-  color: rgb(150,150,150);
->>>>>>> eec6120693070c4a77e074e8de8227bc8589a892
   line-height: 1.2;
 }
 
 .cd-horizontal-timeline .events-content p {
   padding-top:10px;
-<<<<<<< HEAD
   font-size: 18px;
   color: rgb(100,100,100);
 }
@@ -337,17 +290,6 @@
     font-size: 24px;
     color:  #1B619B;
     font-weight:normal;
-=======
-  font-size: 1.4rem;
-  color: #959595;
-}
-.cd-horizontal-timeline .events-content em, .cd-horizontal-timeline .events-content p {
-  line-height: 1.6;
-}
-@media only screen and (min-width: 768px) {
-  .cd-horizontal-timeline .events-content h2 {
-    font-size: 1.6rem;
->>>>>>> eec6120693070c4a77e074e8de8227bc8589a892
   }
   .cd-horizontal-timeline .events-content p {
     font-size: 16px;

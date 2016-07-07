@@ -16,26 +16,16 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-<<<<<<< HEAD
     margin: 0;
     padding: 0;
     border: 0;
     font-size: 100%;
     /*font: inherit;*/
     vertical-align: baseline;
-=======
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
->>>>>>> eec6120693070c4a77e074e8de8227bc8589a892
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section, main {
-<<<<<<< HEAD
     display: block;
 }
 body {
@@ -71,25 +61,4 @@ q:before, q:after {
 table {
     border-collapse: collapse;
     border-spacing: 0;
-=======
-	display: block;
-}
-body {
-	line-height: 1;
-}
-ol, ul {
-	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
->>>>>>> eec6120693070c4a77e074e8de8227bc8589a892
 }
