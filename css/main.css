@@ -1,4 +1,6 @@
 
+/* awesome color for links:  #00b0ff */
+<<<<<<< HEAD
 /* brown #6F4E37; *//* green #D3E397; */ /* orange #FF9E00 */ /* blue #1B619B */ /* grey rgb(150,150,150); */
 
 
@@ -12,7 +14,8 @@ a {
 
   .nav a {
   color: #D3E397;
-  }
+=======
+
 a, p, h1, h2 {
   font-family: Arial, Helvetica, sans-serif;
   text-decoration: none;
@@ -34,18 +37,21 @@ a {
   .nav a {
   color: rgb(150,150,150);
   font-size: 14px;
+>>>>>>> eec6120693070c4a77e074e8de8227bc8589a892
   font-weight: bold;
   padding: 0px 10px;
   text-transform: uppercase;
   font-family: Arial, Helvetica, sans-serif;
 }
 
+<<<<<<< HEAD
 .nav .nav-container {
     background : rgb(50,50,50);
     padding-top: 10px;
     padding-bottom: 10px;
 }
-
+=======
+>>>>>>> eec6120693070c4a77e074e8de8227bc8589a892
 .nav li {
   display: inline;
 }
@@ -69,6 +75,7 @@ a {
   top:0px;
 }
 
+<<<<<<< HEAD
 .jumbotron-mini {
   background-image:url('http://locustherapy.com/askthedoctor/wp-content/uploads/2014/06/Depositphotos_38157217_m.jpg');
   height: 100px;
@@ -76,11 +83,16 @@ a {
   background-size: cover;
 }
 
+
+=======
+>>>>>>> eec6120693070c4a77e074e8de8227bc8589a892
 .col-centered{
     float: none;
     margin: 0 auto;
 }
 
+<<<<<<< HEAD
+=======
 .home_intro-text p {
     padding-top: 60px; 
     font-size: 16px;
@@ -89,6 +101,7 @@ a {
     margin:-20px; 
     text-align: right;
 }
+>>>>>>> eec6120693070c4a77e074e8de8227bc8589a892
 
 body {
 	height: 100%;
@@ -98,6 +111,7 @@ body {
        background-color: #f8f8f8;
 }
 
+<<<<<<< HEAD
 hr { 
     display: block;
     border-color: rgb(150,150,150);
@@ -242,6 +256,7 @@ h4 {
 
 /* science page */
 
+=======
 footer{
     padding-bottom: 70px;
     text-align: right-justify; 
@@ -272,7 +287,7 @@ hr {
     margin-bottom:20px;
     font-size: 16px;
 }
-
+>>>>>>> eec6120693070c4a77e074e8de8227bc8589a892
 science-post {
     background-color: #efefef;
     border-bottom:1px solid #dbdbdb;
@@ -285,12 +300,15 @@ science-post {
     padding-bottom: 15px;
 }
 
+<<<<<<< HEAD
+=======
 .science_post .container p {
     font-family: Arial, Helvetica, sans-serif;
     margin-bottom:20px;
     font-size: 16px;
 }
 
+>>>>>>> eec6120693070c4a77e074e8de8227bc8589a892
 
 .science_post a{
     background-color: crimson;
@@ -300,20 +318,25 @@ science-post {
     width: 300px;
     padding: 45px 25px;
     text-align: center;	
+<<<<<<< HEAD
+=======
     text-decoration: none;
+>>>>>>> eec6120693070c4a77e074e8de8227bc8589a892
     display: inline-block;
     padding-bottom: 20px;
     border-top: 20px solid #f8f8f8;
     border-bottom:20px solid #f8f8f8;
 }
 
+<<<<<<< HEAD
 /* timeline downloaded from https://codyhouse.co/gem/horizontal-timeline/ */
 
 .timeline ul,ol {
     list-style:none;
 }
 
-
+=======
+>>>>>>> eec6120693070c4a77e074e8de8227bc8589a892
 .science_post .science_post-1 a{
     background-color: #1B619B;
 }
@@ -343,6 +366,7 @@ science-post {
     background-color: #357EC7
 }
 
+<<<<<<< HEAD
 /* blog posts page */
 
 .post-title-text .container h1 {
@@ -434,7 +458,7 @@ ul.dropdown ul li a:hover			{ display: block; background: #D3E397; }
 col {
     background-color: #eeeeee;
     border: 1px solid red;
-    
+=======
 .learn-more {
   background-color: #f7f7f7;
 }
@@ -447,4 +471,5 @@ col {
 
 .learn-more a {
   color: #00b0ff;
+>>>>>>> eec6120693070c4a77e074e8de8227bc8589a892
 }
