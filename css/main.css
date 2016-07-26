@@ -150,8 +150,6 @@ h4 {
 .container-border .col-md-6{
        border-right: 5px solid black;
       border-color: rgb(150,150,150);
-          padding-bottom:9999px;
-    margin-bottom:-9999px;
 }
 
 .container-white{
