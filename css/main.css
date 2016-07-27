@@ -54,7 +54,10 @@ a {
   background-size: cover;
 }
 
-
+.citation p {
+    text-align:left;
+    font-size: 10px;
+}
 .col-centered{
     float: none;
     margin: 0 auto;
