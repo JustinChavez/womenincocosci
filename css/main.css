@@ -135,6 +135,11 @@ h4 {
     padding-right: 0px;
 } 
 
+.small-text {
+    font-size:12px;
+    line-height: 1em;
+}
+
 .col-md-8{
       border-right: 5px solid black;
       border-color: rgb(150,150,150);
