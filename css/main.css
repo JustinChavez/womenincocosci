@@ -135,6 +135,10 @@ h4 {
     padding-right: 0px;
 } 
 
+.centering{
+    text-align:center;
+}
+
 .small-text {
     font-size:12px;
     line-height: 1em;
